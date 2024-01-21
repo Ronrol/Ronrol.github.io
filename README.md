@@ -8,15 +8,12 @@
  <body>
   <center> <h1> <strong>Информация о нашей компании</strong> </h1>
   <p> <h3> <em>Наши лучшие Крабоведы</em> </h3> </p> 
-	<img src="https://sun1-30.userapi.com/impg/sFfko2cCqm5eSDvDzBb6aTdESuTxpoFpShujEA/
-	rcYZzNVqpGE.jpg?size=1512x2016&quality=95&sign=ca398611c954460ded813eb32eb301d4&type=album" 
-	height="350" width="300"> 
-		<img src="https://sun9-25.userapi.com/impg/pUCoP3PvJC5lK275P6-ZGvgNd23oFrk-Ql3hBw/
-		NQZgYNOPHyU.jpg?size=1623x2160&quality=95&sign=118d8bc6d1979eb7a8d2444bda6aefb7&type=album"
-		height="350" width="300"> 
-		<img src="https://sun9-16.userapi.com/impg/Cym2AY21TQRQzqFzmUp9npSbHymSWz2FoZIMmw/
-		4VTyAtjRqao.jpg?size=400x400&quality=96&sign=c31c7b571a836562ecfb2dd193bbdb3f&type=album"
-		height="350" width="350"> <center>
+	<img src="https://funik.ru/wp-content/uploads/2019/07/02b429d56e5557f2629e.jpg" 
+	height="350" width="500"> 
+		<img src="https://img.allzip.org/g/64/orig/7525047.jpg"
+		height="350" width="500"> 
+		<img src="https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663207634_6-mykaleidoscope-ru-p-veselii-krab-oboi-6.jpg"
+		height="350" width="450"> <center>
     
     <center> <h2>Кто мы?</h2>
 	<p>Мы - комманда профессионалов.</p>
