@@ -15,7 +15,7 @@
 	<img src="https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663207634_6-mykaleidoscope-ru-p-veselii-krab-oboi-6.jpg"
 		height="350" width="450"align="left"> 
     
-    <center> <h2>Кто мы?</h2>
+    <h2>Кто мы?</h2>
 	<p> <font size="5"> Мы - комманда профессионалов.</p>
     
     <h3>Наши услуги</h3>
@@ -33,6 +33,6 @@
 	<a href="https://vk.com/id231930634"> 
 		<button> <strong>Пишите, всех жду!</strong> </button> </a> 
 	
-	<p>Телефон: +8(800)555-55-55</p> </center>
+	<p>Телефон: +8(800)555-55-55</p> 
  </body>
 </html>
