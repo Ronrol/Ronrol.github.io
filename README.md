@@ -7,12 +7,13 @@
  <body>
   <center> <h1> <strong>Информация о нашей компании</strong> </h1>
   <p> <h3> <em>Наши лучшие Крабоведы</em> </h3> </p> 
-	<img src="https://funik.ru/wp-content/uploads/2019/07/02b429d56e5557f2629e.jpg" 
-	height="350" width="400" align="top"> 
+	<p> <img src="https://funik.ru/wp-content/uploads/2019/07/02b429d56e5557f2629e.jpg" 
+	height="350" width="400" align="Botton"> <br> Краб-Анна </p>
 	<img src="https://img.allzip.org/g/64/orig/7525047.jpg"
-		height="350" width="400" align="top"> 
-	<img src="https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663207634_6-mykaleidoscope-ru-p-veselii-krab-oboi-6.jpg"
-		height="350" width="450" align="top"> 
+		height="350" width="400" align="Botton"> <br> Краб-Григорий </p>
+	<img src="https://mykaleidoscope.ru/x/uploads/posts/
+	2022-09/1663207634_6-mykaleidoscope-ru-p-veselii-krab-oboi-6.jpg"
+		height="350" width="450" align="Botton"> <br> Краб-Роман </p>
     
     <h2>Кто мы?</h2>
 	<p> <font size="5"> Мы - комманда профессионалов.</p>
@@ -32,4 +33,6 @@
 	<a href="https://vk.com/id231930634"> 
 		<button> <strong>Пишите, всех жду!</strong> </button> </a> 
 	
-	<p>Телефон: +8(800)555-55-55</p> 
+	<p>Телефон: +8(800)555-55-55</p> </center>
+ </body>
+</html>
