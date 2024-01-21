@@ -11,7 +11,7 @@
 	height="350" width="450" align="Botton"> <br> Краб-Анна </p>
 	<p> <img src="https://img.allzip.org/g/64/orig/7525047.jpg"
 		height="350" width="450" align="Botton"> <br> Краб-Григорий </p>
-	<p> <img src="https://i.kym-cdn.com/entries/icons/original/000/041/092/cover4.jpg"
+	<p> <img src="https://sun9-35.userapi.com/impg/bx5LvIYamesdohNsMueFdPxgV6ITs1N_xN1C7g/MN_fnJoZDD8.jpg?size=1063x833&quality=96&sign=218e8864dd7035fed329d4cdd75ee076&c_uniq_tag=tMdFMRcWFwpqYhEaI3HFDfnpOalftWtP3tJxq1rs1uU&type=album"
 		height="350" width="450" align="Botton"> <br> Краб-Роман </p>
     
     <h2>Кто мы?</h2>
