@@ -4,9 +4,9 @@
   <p> <h3> <em>Наши лучшие Крабоведы</em> </h3> </p> 
 	<img src="https://funik.ru/wp-content/uploads/2019/07/02b429d56e5557f2629e.jpg" height="350" width="400"> 
 	  <img src="https://img.allzip.org/g/64/orig/7525047.jpg" height="350" width="400"> 
-	  <img src="https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663207634_6-mykaleidoscope-ru-p-veselii-krab-oboi-6.jpg" height="350" width="400"> <center>
+	  <img src="https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663207634_6-mykaleidoscope-ru-p-veselii-krab-oboi-6.jpg" height="350" width="400"> 
     
-    <center> <h2>Кто мы?</h2>
+    <h2>Кто мы?</h2>
 	<p>Мы - комманда профессионалов.</p>
     <h3>Наши услуги</h3>
     <p> <font size="5">Разведение ваших крабов - 350 р (за одну ночь) <br>
