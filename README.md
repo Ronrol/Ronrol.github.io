@@ -11,9 +11,8 @@
 	height="350" width="400" align="Botton"> <br> Краб-Анна </p>
 	<img src="https://img.allzip.org/g/64/orig/7525047.jpg"
 		height="350" width="400" align="Botton"> <br> Краб-Григорий </p>
-	<img src="https://mykaleidoscope.ru/x/uploads/posts/
-	2022-09/1663207634_6-mykaleidoscope-ru-p-veselii-krab-oboi-6.jpg"
-		height="350" width="450" align="Botton"> <br> Краб-Роман </p>
+	<img src="[https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663207634_6-mykaleidoscope-ru-p-veselii-krab-oboi-6.jpg]"
+		height="350" width="400" align="Botton"> <br> Краб-Роман </p>
     
     <h2>Кто мы?</h2>
 	<p> <font size="5"> Мы - комманда профессионалов.</p>
